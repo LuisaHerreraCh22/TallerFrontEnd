@@ -1,0 +1,27 @@
+body{
+    font-family: 'Jost';
+    margin: 50px 300px;
+}
+
+nav{
+    padding: 10px;
+    background-color: pink;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+nav ul {
+    display: flex;
+    gap: 100px;
+    list-style: none;
+
+}
+#punto7 li{
+    padding: 10px;
+}
+
+#punto7 li:hover{
+    background-color: blue;
+}
